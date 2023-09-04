@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my most recent CV here. (/files/pdf/CV_2023.pdf)
+Please see my most recent CV here. (/files/CV_2023.pdf)
