@@ -12,6 +12,8 @@ EC 201: Introduction to Microeconomics -- Summer 2021
 
 # Teaching Assistant
 
+EC 201: Introduction to Microeconomics -- Spring 2024
+
 EC 301: Intermediate Microeconomics -- Spring 2020
 
 EC 302: Intermediate Macroeconomics -- Fall 2019
@@ -19,6 +21,10 @@ EC 302: Intermediate Macroeconomics -- Fall 2019
 EC 340: Survey of International Economics -- Fall 2020, Fall 2021
 
 EC 438: Urban Economics -- Spring 2021, Spring 2022
+
+EC 480: Analysis of Labor Markets -- Fall 2023
+
+EC 485: Economics of Education -- Fall 2023
 
 EC 499: Senior Seminar -- Spring 2021
 
